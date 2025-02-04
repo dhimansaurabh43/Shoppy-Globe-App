@@ -8,7 +8,7 @@ const Footer = (): JSX.Element => {
     <div className="bg-[#101419] text-white w-full p-[19px] flex items-center justify-between">
       <p>Shoppy Globe &#169; &#8482;</p>
       <div className="flex gap-5">
-        <a href="https://github.com/dhimansaurabh43/Shoppy-Globe-App.git" target="_blank">
+        <a href="https://github.com/dhimansaurabh43" target="_blank">
           <GrGithub className="text-xl hover:scale-110 cursor-pointer transition-all duration-200 ease-linear" />
         </a>
         <a
