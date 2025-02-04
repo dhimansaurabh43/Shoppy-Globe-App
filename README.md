@@ -4,23 +4,21 @@
    
   ## Live Demo
 
-https://shoppy-globe.vercel.app/
+http://localhost:5173/
 
   ## Github Link
   
-  https://github.com/aadarshraj02/Shoppy-Globe
+  https://github.com/dhimansaurabh43/Shoppy-Globe-App.git
   
 ## Run Locally  
 Clone the project  
 
 ~~~bash  
-  git clone https://github.com/aadarshraj02/Shoppy-Globe
+  git clone https://github.com/dhimansaurabh43/Shoppy-Globe-App.git
 ~~~
 
 Go to the project directory  
-
-~~~bash  
-  cd online-library-system
+cd Shoppy-Globe-Main
 ~~~
 
 Install dependencies  
