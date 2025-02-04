@@ -4,7 +4,8 @@
    
   ## Live Demo
 
-http://localhost:5173/
+https://dhimansaurabh43.github.io/Shoppy-Globe-App/
+
 
   ## Github Link
   
